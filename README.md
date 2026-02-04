@@ -1,5 +1,6 @@
 # Audio Frequency Comparison and Voice Similarity Evaluation
 
+
 # 📌 Project Description
 
 This project analyzes and compares two audio recordings to measure how similar they are based on their frequency-domain features. The audio signals are converted from time domain to frequency domain using Fast Fourier Transform (FFT). A combined frequency graph is generated and a similarity score is calculated using cosine similarity.
@@ -7,8 +8,11 @@ This project analyzes and compares two audio recordings to measure how similar t
 # 🎯 Objectives
 
 Load and process two audio files
+
 Convert audio signals into frequency domain
+
 Plot frequency comparison graph
+
 Calculate numerical similarity score
 
 # 🛠 Tools and Libraries Used
