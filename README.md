@@ -57,6 +57,10 @@ A frequency-domain comparison graph of both audio files
 
 A similarity score indicating how closely the two audios match
 
+
+<img width="2871" height="1312" alt="Image" src="https://github.com/user-attachments/assets/e7e3425d-5e8e-46d6-ae4b-88b901ecc1c0" />
+
+
 # ✅ Conclusion
 
 The project successfully compares two audio signals using frequency-domain analysis and provides a visual and numerical method to measure audio similarity.
